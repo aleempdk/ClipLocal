@@ -1,0 +1,88 @@
+{
+  "Stable comic + bubbles": {
+    "style": "comic",
+    "layout": "follow",
+    "motion": "off",
+    "sound": "subtle",
+    "sound_density": "sparse",
+    "decorations": "auto",
+    "caption_size": "large",
+    "aspect": "9:16",
+    "resolution": 1080
+  },
+  "Stable kinetic + stickers": {
+    "style": "kinetic",
+    "layout": "follow",
+    "motion": "off",
+    "sound": "subtle",
+    "sound_density": "sparse",
+    "decorations": "stickers",
+    "caption_size": "large",
+    "aspect": "9:16",
+    "resolution": 1080
+  },
+  "Steady cinema": {
+    "style": "cinema",
+    "layout": "follow",
+    "motion": "off",
+    "sound": "cinematic",
+    "sound_density": "sparse",
+    "decorations": "off",
+    "caption_size": "large",
+    "aspect": "9:16",
+    "resolution": 1080
+  },
+  "Spotlight full frame": {
+    "style": "spotlight",
+    "sound": "subtle",
+    "layout": "crop",
+    "caption_size": "large",
+    "resolution": 1080,
+    "aspect": "9:16",
+    "color": "#ffff00",
+    "position": 0.5,
+    "hook": "",
+    "brand": ""
+  },
+  "Neon mint full frame": {
+    "style": "neon",
+    "sound": "digital",
+    "layout": "crop",
+    "caption_size": "large",
+    "resolution": 1080,
+    "aspect": "9:16",
+    "color": "#ffff00",
+    "position": 0.5,
+    "hook": "",
+    "brand": ""
+  },
+  "Editorial full frame": {
+    "style": "editorial",
+    "sound": "cinematic",
+    "layout": "crop",
+    "caption_size": "large",
+    "resolution": 1080,
+    "aspect": "9:16",
+    "color": "#ffff00",
+    "position": 0.5,
+    "hook": "",
+    "brand": ""
+  },
+  "Reference podcast": {
+    "length": 30,
+    "count": 3,
+    "layout": "fit",
+    "model": "base.en",
+    "style": "podcast",
+    "sound": "subtle",
+    "aspect": "9:16",
+    "resolution": 1080,
+    "brand": "",
+    "color": "#ffff00",
+    "position": 0.5,
+    "denoise": false,
+    "pauses": false,
+    "fillers": false,
+    "learn": true
+  }
+}

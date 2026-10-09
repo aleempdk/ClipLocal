@@ -1,0 +1,6 @@
+yt-dlp[default]==2026.8.19
+faster-whisper==1.2.1
+av>=11,<19
+numpy>=1.26,<3
+
+opencv-python-headless>=4.10,<5
